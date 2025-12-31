@@ -76,3 +76,5 @@
 </picture>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/AnmolMogalayi/AnmolMogalayi/output/snake.svg" alt="Snake animation" />
