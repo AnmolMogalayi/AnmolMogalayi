@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **Most of my breakthroughs happen at 2 AM for no reason 🌙💻**
 
-- 📄 Know about my experiences **[View My Resume](https://drive.google.com/file/d/1Gwh44Du6r61Evwa7dpQXhr8xO1WTDq0M/view?usp=sharing)**
+- 📄 Know about my experiences **[View My Resume](https://drive.google.com/file/d/1WS_mZ1hBsAx_ZLhekan0q1AZxl7DcY2Z/view?usp=sharing)**
 
 ---
 
