@@ -18,7 +18,7 @@
 
 ---
 
-- 🔭 I'm currently working on **HealthLens AI**
+- 🔭 I'm currently working on **RideTribe**
 
 - 🌱 I'm currently learning **N8n, LangChain, LLMOps, vector databases, advanced ML frameworks**
 
