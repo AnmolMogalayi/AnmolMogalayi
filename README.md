@@ -46,7 +46,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bootstrap,c,css,d3,django,docker,express,fastapi,firebase,gcp,git,html,java,js,mongodb,mysql,nodejs,numpy,opencv,pandas,postgres,py,pytorch,react,redux,sass,sklearn,sqlite,tailwind,tensorflow,ts,unity,zapier&perline=13" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bootstrap,c,css,d3,django,docker,express,fastapi,firebase,gcp,git,html,java,js,mongodb,mysql,nodejs,opencv,postgres,py,pytorch,react,redux,sass,sklearn,sqlite,tailwind,tensorflow,ts,unity,zapier&perline=13" />
   </a>
 </p>
 
